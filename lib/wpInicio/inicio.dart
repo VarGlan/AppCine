@@ -84,7 +84,7 @@ class paginaInicio extends StatelessWidget {
           ),
           BottomNavigationBarItem(
               icon: Icon(Icons.search),
-              label: 'Busqueda'
+              label: 'Busqueda',
           ),
           BottomNavigationBarItem(
               icon: Icon(Icons.favorite),
